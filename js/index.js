@@ -112,6 +112,9 @@ async function displayForecast() {
   let todayName = d.getDay();
   for (let i = 1; i < arr.length; i++) {
     todayName += 1;
+    if (todayName > 6) {
+      todayName = 0;
+    }
     forecastDay[i - 1].innerHTML = shortDays[todayName];
     forecastIcon[i - 1].setAttribute(
       "src",
