@@ -4,7 +4,7 @@ This is my work assigned by [Route-Academy](https://www.linkedin.com/company/rou
 
 ## Important notice 📢
 
-You may notice that the app currently only displays the weather forecast for three days, with no information for the remaining days of the week. This is because the API we used for the weather data has a free trial period that has ended, limiting us to only a 3-day forecast on the free plan. Rest assured, we are working on a fix for this issue and will update the app as soon as possible to provide a full week's forecast.
+You may notice that the app currently only displays the weather forecast for three days, with no information for the remaining days of the week. This is because the API I used for the weather data has a free trial period that has ended, limiting me to only a 3-day forecast on the free plan. Rest assured, I am working on a fix for this issue and will update the app as soon as possible to provide a full week's forecast.
 
 ## Table of contents
 
